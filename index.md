@@ -9,4 +9,4 @@ title: Emberlight Interactive
 
 Only us is a horror indie game developed by Tristan Mastrodicasa.
 
-[Privacy Policy](/privacy-policy)
+[Privacy Policy](/only-us/privacy-policy)
