@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emberlight Interactive - Privacy Policy
+title: Privacy Policy
 ---
 
 ## Privacy Policy
