@@ -1,3 +1,9 @@
 theme: jekyll-theme-slate
 title: Emberlight Interactive
-# description: Published 19/04/2019
+author: Tristan Mastrodicasa
+description: Toronto based game studio
+navbar-links:
+  Privacy Policy: "privacy-policy"
+avatar: "/da-flame.png"
+
+timezone: "America/Toronto"
