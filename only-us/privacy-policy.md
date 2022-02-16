@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Privacy Policy
+title: Privacy Policy - Only Us
 ---
 
-Privacy Policy
+Privacy Policy - Only Us
 ==============
 
 Last updated: February 16, 2022
