@@ -7,6 +7,7 @@ Remote Unity Developer Wanted - $20/hr
 ==============
 
 **Time Commitment**: Part Time; 8 hours (1 day) a week; on weekends
+
 **Remote Contractor Position**
 
 Looking for an experienced Unity developer for a 3 - 9 month project with the opportunity for further employment depending on the success of the project. The developer needs to be in the EST timezone.
