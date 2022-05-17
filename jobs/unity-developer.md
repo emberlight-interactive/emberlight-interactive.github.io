@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Remote Unity Developer Wanted - $20/hr
+title: Remote Unity Developer Wanted - $20 CAD/hr
 ---
 
-Remote Unity Developer Wanted - $20/hr
+Remote Unity Developer Wanted - $20 CAD/hr
 ==============
 
 **Time Commitment**: Part Time; 8 hours (1 day) a week; on weekends
